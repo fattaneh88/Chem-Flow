@@ -1,2 +1,6 @@
 # Chem-Flow
-In this project, we provide a collocation method for the problem of flow and diffusion of chemically reactive species over a nonlinearly stretching sheet. This approach is based on a modified generalized Laguerre that it is an orthogonal function. Collocation method reduces the solution of these problems to the solution of systems of algebraic equations. We also compare this work with Homotopy Analysis Method (HAM).
+Here is all the implementations of the following publication:
+
+K. Parand, F. Bayat Babolghani. Modified generalized Laguerre functions for a numerical investigation of flow and diffusion of chemically reactive species over a nonlinearly stretching sheet, to World Applied Science Journal 2012
+
+Our implementations were built in Maple 2013.
